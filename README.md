@@ -1,2 +1,2 @@
 # ROMS
-a restaurant application with customer interface for making orders through sending orders to the chefs
+a restaurant application with menu interface for making orders through sending orders to the chefs and cashier.
